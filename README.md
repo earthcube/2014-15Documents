@@ -3,7 +3,7 @@ ProgramOfficeRoles
 
 These are the roles and accountabilities the staff have at EarthCube
 
-NOTE: the individual roles are listed in the WIKI pages
+NOTE: the individual roles are listed in the WIKI pages <https://github.com/earthcube/ProgramOfficeRoles/wiki>
 
 # EC Program Office Roles and Accountabilities
 
