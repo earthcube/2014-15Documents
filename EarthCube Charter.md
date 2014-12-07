@@ -62,10 +62,10 @@ Each governance unit is guided by a distinct charter or set of guidelines determ
 Intent: Each governance element may operate differently depending on its needs, as outlined in its individual charter or guidelines. Thus, the Demonstration Governance Charter does not presuppose any structure beyond requiring coordination between Standing Committees, Teams, and the Leadership Council.
 
 Figure 1: Demonstration Governance Organizational Chart
-Add URL HERE
+https://github.com/earthcube/Demonstration-Governance-Charter/blob/master/FigureOne.png
 
 Figure 2: Relationship of EarthCube Standing Committees and Teams
-ADD URL HERE
+https://github.com/earthcube/Demonstration-Governance-Charter/blob/master/Figure2.png
 
 ### 3.1	Leadership Council
 
