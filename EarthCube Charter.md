@@ -370,8 +370,7 @@ An external review of the Office will occur midway through each funding cycle or
 
 ----------------------------------------
 
-
-**Existing Guidelines**
+## Existing Guidelines
 
 Intent: These guidelines were developed based on input during the creation, and subsequent reviews of this charter. The guidelines are presented as options, and may be revised by the Leadership Council if appropriate. Additional guidelines will be added as other Committees and Teams are instantiated.
 
