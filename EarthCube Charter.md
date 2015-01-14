@@ -409,7 +409,7 @@ Five At-Large Representatives: Four representatives self-nominated and elected b
 
 Non-Voting Leadership Council Members: Non-voting members include an Engagement Team Representative, a Liaison Team Representative, a representative from the National Science Foundation, and the Director of the Office.
 
-**Working Group Guidelines**
+### **Working Group Guidelines**
 
 There are resources available from the Office to support Working Groups including staff time, access to collaboration resources (e.g. webinars and conference lines) and funding for non-salary activities such as travel support.
 
