@@ -1,12 +1,8 @@
-# Charge-to-demo-EC-governance
-
-## 
+Use this version for linking
 
 **December 30, 2014**
 
-_Prepared by the EarthCube Test Enterprise Governance Project _
-
-_and the National Science Foundation_
+Prepared by the EarthCube Test Enterprise Governance Project and the National Science Foundation_
 
 # CHARGE TO EARTHCUBE DEMONSTRATION GOVERNANCE
 
