@@ -10,6 +10,8 @@ _EarthCube Leadership Council Document_
 
 Approved February 3, 2015
 
+Version 1.0
+
 &nbsp;
 
 **Background on EarthCube Working Groups**
