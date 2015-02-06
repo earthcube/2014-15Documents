@@ -26,7 +26,7 @@ Working Groups serve as ad hoc organizational units created in response to a pre
 
 ### Working Group Typologies
 
-Every working group should have a chair and co-chair, who function as points of contact between the participants and with the EarthCube Office, and are responsible for ensuring all the working group's functions and responsibilities (as defined in the working group's proposal) are fulfilled in an efficient and timely manner. &nbsp;As EarthCube demonstration governance evolves a need for two different types of working group has emerged:
+Every working group should have a chair and co-chair, who function as points of contact between the participants and with the EarthCube Office, and are responsible for ensuring all the working group's functions and responsibilities (as defined in the working group's proposal) are fulfilled in an efficient and timely manner. As EarthCube demonstration governance evolves a need for two different types of working group has emerged:
 
 #### Type 1 Working Groups 
 
@@ -34,17 +34,17 @@ Type 1 Working Groups conduct all their business in a virtual environment and on
 
 #### Type 2 Working Groups 
 
-Type 2 Working Groups additionally require funds (from the Leadership Council, a standing Committee or Team) to hold face-to face meetings or workshops, to allow them to achieve quantifiable outcomes. Type 2 working groups have afiduciary duty to ensure that all monies requested are accounted for, in accordance with EarthCube's operational practices and the budget justification that was approved prior to their formation. &nbsp;In ordinary circumstances a **minimum of 60 days** advance notice is required for the EarthCube office staff to organize a meeting or workshop (in _exceptional circumstances,_ and with the prior approval of the Leadership Council, a meeting or workshop may be proposed with only 45 days advance notice).
+Type 2 Working Groups additionally require funds (from the Leadership Council, a standing Committee or Team) to hold face-to face meetings or workshops, to allow them to achieve quantifiable outcomes. Type 2 working groups have afiduciary duty to ensure that all monies requested are accounted for, in accordance with EarthCube's operational practices and the budget justification that was approved prior to their formation. In ordinary circumstances a **minimum of 60 days** advance notice is required for the EarthCube office staff to organize a meeting or workshop (in _exceptional circumstances,_ and with the prior approval of the Leadership Council, a meeting or workshop may be proposed with only 45 days advance notice).
 
 
 ## Working Group Outcomes
 
 
-All working groups are expected to deliver a comprehensive written report to the Leadership Council, standing Committee or Team that endorsed its formation. Using a standardized format1, these reports are expected, in a concise, uniform style, to merge all participant's views, ideas and perspectives into a single coherent product. &nbsp;Reports will ordinarily will take one of three forms:
+All working groups are expected to deliver a comprehensive written report to the Leadership Council, standing Committee or Team that endorsed its formation. Using a standardized format<sup>1</sup>, these reports are expected, in a concise, uniform style, to merge all participant's views, ideas and perspectives into a single coherent product. Reports will ordinarily will take one of three forms:
 
 ### Technical papers
 
-**Technical papers** are documents that describe the process, progress or state of a technical issue that is of import to EarthCube. &nbsp;They may include recommendations on future positions and action items for the All Hands Meeting, the Leadership Council, a standing Committee or Team to consider.
+**Technical papers** are documents that describe the process, progress or state of a technical issue that is of import to EarthCube. They may include recommendations on future positions and action items for the All Hands Meeting, the Leadership Council, a standing Committee or Team to consider.
 
 ### Working Papers
 **Working papers** are preliminary EarthCube documents that develop, articulate and share ideas about an issue, with the intention of eliciting feedback from the EarthCube community in advance of a final documented being submitted for approval by (any or all of): the All Hands Meeting; the Leadership Council; a standing Committee or Team.
@@ -53,7 +53,4 @@ All working groups are expected to deliver a comprehensive written report to the
 **Discussion papers** are documents which examine current opinion and evidence on a specific EarthCube-related issue. Discussion papers may reflect differing perspectives, but should provide balanced information. They may include recommendations on future positions and, because they are intended to inform discussion, may be amended in response to comment and feedback from the EarthCube community.
 
 
-1
-
-# 
- The template should be obtained from the EarthCube office.
+1   The template should be obtained from the EarthCube office.
