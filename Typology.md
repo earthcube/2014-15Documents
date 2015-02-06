@@ -2,6 +2,9 @@
 
 Use this version to link to...
 
+To suggest changes to this document: go to the wiki page:
+https://github.com/earthcube/Working-Group-Typology/wiki/Working-Group-Typology-Wiki
+
 ## EarthCube Working Groups
 
 &nbsp;
