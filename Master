@@ -1,7 +1,3 @@
-### **This document was approved by a vote by TAC members on 23 February 2015. It was approved by the Leadership Council on 5 March 2015 with the following comments:**
-
-# **&nbsp; &nbsp; &nbsp; &nbsp;**
-
 # Charter of the EarthCube Technology and Architecture Standing Committee
 
 **Preamble**
