@@ -1,5 +1,7 @@
 # Charter of the EarthCube Technology and Architecture Standing Committee
 
+[Github NOTE: comments and suggestions for revision are here: https://github.com/earthcube/TAC-charter/wiki/Comments-and-Guidance-for-next-version]
+
 **Preamble**
 
 The EarthCube Technology and Architecture Standing Committee is charged with facilitating the development of the technology that is part of EarthCube. This charter defines the scope of committee activity and interests, and the processes through which the committee will pursue its goals. Because committee participation is voluntary, this charter is designed to minimize management overhead and focus on efficient operation.
