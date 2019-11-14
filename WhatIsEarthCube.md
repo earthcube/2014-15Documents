@@ -1,0 +1,5 @@
+Earthcube is a community of scientists from all geoscience domains, geoinformatics researchers, and data scientists collaborating in a joint effort between the NSF Directorate for Geosciences and the Division of Advanced Cyberinfrastructure. EarthCube was initiated by the National Science Foundation (NSF) in 2011 to transform geoscience research by developing cyberinfrastructure to improve access, sharing, visualization, and analysis of all forms of geosciences data and related resources. As a community-governed effort, EarthCube's goal is to enable geoscientists to tackle the challenges of understanding and predicting a complex and evolving solid Earth, hydrosphere, atmosphere, and space environment systems. The NSF's Directorate for Geosciences (GEO) and the Division of Advanced Cyberinfrastructure (ACI) partnered to sponsor EarthCube, which NSF anticipates supporting through 2022. 
+
+Repositories under this organization host project work focused on EarthCube core elements, including policy documents, registries, and vocabularies. 
+
+see [EarthCube web site](https://www.earthcube.org/)
